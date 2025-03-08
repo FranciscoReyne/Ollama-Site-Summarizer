@@ -1,3 +1,5 @@
+:)
+
 # Ollama Site Summarizer
 
 ## Overview
